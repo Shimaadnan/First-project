@@ -1,0 +1,38 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color:#FFBE33;
+  padding: 20px;
+  font-size: 25px;
+}
+footer {
+  background-color: #C4BFB4;
+  text-align:center;
+  margin: 5px;
+  padding:15px;
+}
+nav a{
+  color: #161418;
+  margin:30px;
+  pading:15px;
+  text-align: right; 
+}
+nav {background-color:#C4BFB4
+display: flex;
+justify-content: flex-end;
+padding:20px;}
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+header{
+  
+}
